@@ -10,8 +10,8 @@ This project's user interface was designed in Figma before development, covering
 |---|---|
 | ![Login](design/screenshots/login.png) | Login page for user authentication |
 | ![Home](design/screenshots/home.png) | Home page showcasing featured products and categories |
-| ![Product Listing](design/screenshots/product-listing.png) | Product listing page where users select items to add to cart |
-| ![Category - Jeans](design/screenshots/category-jeans.png) | Category page for browsing jeans specifically |
+| ![Product Listing](design/screenshots/product- detail.png) | Product listing page where users select items to add to cart |
+| ![Category - Jeans](design/screenshots/product-listing.png) | Category page for browsing jeans specifically |
 | ![Cart](design/screenshots/cart.png) | Shopping cart showing selected items |
 | ![Checkout](design/screenshots/checkout.png) | Checkout page for completing the purchase |
 | ![Chatbot](design/screenshots/chatbot.png) | Automated chatbot for answering customer inquiries |
